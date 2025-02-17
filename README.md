@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilgarQA
+- 👋 Hi, I’m Ilgar Ibrahimli
 - 👀 I’m interested in Quality Assurance
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on QA projects.
