@@ -8,19 +8,6 @@
 
  QA tester with a strong passion for ensuring high-quality software products. I am skilled in developing test plans, executing test cases, and identifying bugs to enhance user experience.
 
- SKILLS
-Manual Testing
-Bug Reporting
-Test Case Creation
-Attention to detail
-Time Management
-Understanding of HTML, CSS
-Android Testing
-Log collecting via ADB Logcat
-Understanding of Oracle SQL
-API Testing using Postman
-Java Programming Language
-
 EDUCATION
 Baku Engineering University,
 Mathematics and Computer Science
