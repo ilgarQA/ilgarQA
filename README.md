@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quality Assurance
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on QA projects.
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: Linkedin or mail
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Ilgar means loyalty
 
